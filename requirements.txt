@@ -1,0 +1,6 @@
+flask==2.0.2
+requests==2.27.1
+pycryptodome==3.13.0
+pycryptodome-test-vectors==1.0.6
+setuptools==59.6.0
+pycrypto==2.6.1
